@@ -18,7 +18,7 @@ The aim of this project is to help stakeholders understand what makes a restaura
 - **exploded_cuisine_data.csv** – A preprocessed version of the main dataset where multi-cuisine entries were separated to support more granular visual analysis in Tableau
 
 ## Key Steps and Methodology
-**1. Data Inspection and Cleaning **
+**1. Data Inspection and Cleaning**
         - Loaded and explored two datasets: one with restaurant-level information and another mapping country codes to country names
         - Identified and handled missing values, nulls, and inconsistent entries
         - Removed duplicate records to ensure dataset accuracy and reliability
